@@ -4,7 +4,7 @@ ___高俊___（1983-2-28），辽宁大连。
 
 教育：吉林大学自考本科-计算机专业。
 
-经验：9年（PHP Mysql NODEJS Mongodb javascript html5 Flash）
+经验：03年未开始，9年。
 
 
 GitHub: https://github.com/aarongao
