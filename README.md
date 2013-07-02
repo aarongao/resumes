@@ -1,5 +1,7 @@
 ___高俊___（1983-2-28），辽宁大连。
 
+<img src="images/image001.jpg" width="100px">
+
 教育：吉林大学自考本科-计算机专业。
 
 经验：9年（PHP Mysql NODEJS Mongodb javascript html5 Flash）
@@ -17,34 +19,28 @@ Email: xiaobug@gmail.com
 
 ## Web开发
 
-___Platform & Server：___
-
-* 熟悉 Linux/BSD 平台多种发型版本，包括 Ubuntu, CentOS, FreeBSD, MacOSX。
-
-  从2007年至今，一直使用 Ubuntu/MacOSX 作为日常操作系统（台式电脑和笔记本使用Ubuntu, 随身MacbookAir使用MacOSX）。仅仅因为Windows桌面开发需要，以及 WOW 才进入Windows。Windows是一个伟大的操作系统，但是我喜欢 Unix Like 。
-
-* 熟悉 Apache/Nginx/Tomcat 等Web Server架构。
-
-___Database___
-
-* 熟悉数据库SQL语言及其范式，熟悉MySQL Server的优化、事务、负载架构等工作。
-
-* 熟悉 Memcache 和 MongoDB 等 NoSQL 数据库
-
-___Programe Language___
-
-* 精通 PHP，了解PHP几乎所有的语法特性，常用的函数库，以及PHP的源代码。经常使用C++/C 为PHP编写原生模块。长期维护一款开源的OOP/AOP PHP框架。
-
-* 精通 Node.js 开发，在 Github 有许多我的 Node.js 项目，包括 Web框架，模板引擎，以及各种工具库。
-
-* 熟悉 Java SE 和 JSP ，曾用 Java 6 SE 开发过网页游戏客户端。
-
-* 精通前端 Html4/5 JavaScript 。
-
-* 精通虽然没有前途，但眼下尚保有余热的 Flash ActionScript 1.0 和 3.0。
+LAMP 
+NODEJS+MONGODB 
+UBUNTU CentOS
+HTML5  JAVASCRIPT
+FLASH
 
 
+---
 
+# 工作经验
+
+___大连科多网络科技有限公司___
+10年8月-13年6月	系统整合、新技术研发。
+
+___中国国际海运网___
+08年10月-10年6月	PHP编写及框架扩展。
+
+___大连日联信息技术有限公司___
+07年06月---08年10月	需求分析、框架设计、代码编写等工作。
+
+___大连在线互联网信息服务有限公司___
+03年11月---07年6月	PHP项目的设计开发。
 
 
 ---
@@ -53,6 +49,7 @@ ___Programe Language___
 # 主要项目
 
 ## 蜂巢(OpenComb)
+<img src="images/image003.jpg" width="388px">
 
 项目主页：[http://www.opencomb.com](http://www.opencomb.com)
 
@@ -60,7 +57,6 @@ ___Programe Language___
 
 蜂巢采用了扩展模式，系统中的功能和特性都由扩展提供。
 
-我和我在大连的团队为蜂巢陆续实现了以下“开箱即用"的扩展：
 
 * CMS(内容管理系统)扩展
 
@@ -92,24 +88,8 @@ ___Programe Language___
 
 Github主页：[https://github.com/OpenComb/OpenComb](https://github.com/OpenComb/OpenComb)
 
-从 2012 年低，我停止了 OpenComb 的PHP版本，转移到 Node.js 下。
-
 并且将 蜂巢 for Node.js 中的一些核心子系统，分离成为独立的项目发布
 
-* __ocSteps__ 是一个JavaScript异步执行辅助工具，它解决了 Node.js 异步模式所带来的“麻烦”（许多程序员称其为：“回调地狱”）。
-
-	不同于流行的 [async](https://github.com/caolan/async) 和 [Step](https://github.com/creationix/step) ，ocSteps 更擅长动态地“演进”任务链，而不仅仅是静态地定义任务链结构。这更吻合我们在思考业务逻辑时的思路，能让开发编码更加流畅，并且明显减少编码工作。___ ocSteps 是为复杂、动态的任务链而设计。___
-	
-	Github: [https://github.com/OpenComb/ocSteps]()
-	
-	我为 ocSteps 准备了100%覆盖率的测试用例，并基于这些测试用例部署了持续集成工具：[![Build Status](https://travis-ci.org/OpenComb/ocSteps.png)](https://travis-ci.org/OpenComb/ocSteps)
-
-
-* ___ocTemplate___ 一个 Node.js 模板引擎。
-
-	Github: [https://github.com/OpenComb/ocTemplate]()
-
-	ocTemplate 的特点是在渲染前支持 jQuery 操作（在服务器后端使用jQuery，而不是前端浏览器里），这个特性主要针对 插件 机制：可以在插件里，使用 jQuery 来修改网页模板，这样一来，对模板的修改，就可以随着插件打包发布了；还能够避免直接修改模板源代码，影响未来的升级和维护。
 
 ## NodeIM
 
@@ -119,8 +99,8 @@ NodeIM 是一个完全由 JavaScript 实现的即时通讯项目，它包含了�
 
 * 服务器端仅仅使用了 Node.js 和 MongoDB。
 
-Github: [https://github.com/aleechou/nodeim]()
-
+Github: [https://github.com/aarongao/nodeim]
+<img src="images/image005.jpg">
 
 
 ## 窝内网
@@ -137,81 +117,16 @@ Github: [https://github.com/aleechou/nodeim]()
 
 “窝特”是为窝内网开发的桌面软件，谐音“What?”，用来推送窝内网用户的社交动态，类似“人人桌面”。
 
-是我在项目之间的空闲期里，在公司内发起的项目，组织了其他的同事一起完成这个项目，包括程序员、美工，和网站编辑。
 
-客户端使用 Qt ，服务器端使用 Java 。
-
-## 窝Q
-
-窝Q是一个窝内网专用的腾讯QQ机器人，窝内网的用户可以在QQ上将窝Q加为自己的好友，然后通过和窝Q聊天实现和网站的互动。
-
-窝Q实现了一下功能：
-
-___普通好友聊天___
-
-* 基本的SNS社交命令 - 发心情碎语，日志，分享，以及评论好友的内容
-
-* 接收好友的动态
-
-* 能够用来查询魔兽世界的数据库(物品，装备，副本等信息)
-
-* 查询魔兽世界的玩家状态（等级，装备，成就信息等）
-
-* 能够调戏、拍打、喂食 …… ，以及反射吐槽 （拥有用户定义的语言库）
-
-___QQ群聊天___
-
-* 所有单独普通好友聊天的功能
-
-* 能够教窝Q回答 （这是在QQ群里面最受欢迎的功能，用户教窝Q机器人吐槽其他用户，从此乐此不疲）
-
-* 魔兽公会功能，例如查询玩家在公会里的 DKP 积分等。
-
-窝Q使用了当时我拿到的开源项目，QQ协议v2009的 C 语言实现版本，后来腾讯终止了这个版本的协议，而我忙于其他项目，一直没有时间升级，所以窝Q机器人离线至今。
-
-窝Q虽然已经下线了，但用户对窝Q的喜爱在社区里记录了下来： [http://www.wonei.com/w_search.php?k=%E7%AA%9DQ&ac=blog&do=1&sid=&searchsubmit=1](http://www.wonei.com/w_search.php?k=%E7%AA%9DQ&ac=blog&do=1&sid=&searchsubmit=1)
-
-___窝Q代码的其他用途___
-
-窝Q上线后，我以开源协议发布了其源代码，到现在仍有很多用户根据Readme里的联系方式找到我，要求后续维护。
-
-后来在朋友的介绍下，我帮助国内知名社区[落伍者论坛](http://www.im286.com)，使用窝Q的核心代码实现了论坛用户的QQ账号自动认证。
 
 ## 京东(jd.com)数字音乐商城MP3/MP4播放器
 
 [http://music.jd.com] (http://music.jd.com)
 
-参与了京东数字音乐商城项目，所有类型的播放器（MP3播放器，MV视频播放器，试听播放器，付费后的单曲播放器，专辑播放器，以及电台播放器）的开发小组由我负责。
+参与了京东数字音乐商城项目，所有类型的播放器（MP3播放器，MV视频播放器，试听播放器，付费后的单曲播放器，专辑播放器，以及电台播放器）。
 
 
-<img src="screens/jd-0.png" width="400px">
-
-<img src="screens/jd-1.png" width="400px">
-
-<img src="screens/jd-2.png" width="400px">
-
-<img src="screens/jd-3.png" width="400px">
-
-## 房市網
-
-房市網，[http://www.funce.com](http://www.funce.com)，开发时间大约于 2005 到 2008年，是一个在台湾地区运营的房地产交易网站（类似于搜房网）。
-
-房市網是我早期的工作，由我独立地完成整个网站的开发，使用 PHP4 ，MySQL4 。
-
-## “两者”
-
-
-"两者"是一家男鞋品牌商城网站
-
-该网站使用Node.js框架 蜂巢 开发，其CSS采用了“响应式布局”，能够自动适应移动设备，完全符合现代互联网标准（web 2.0/3.0）。
-
-按照客户的要求，该网站计划于今年秋季上线。
-
-<img src="screens/both-0.png" width="400px">
-
-<img src="screens/both-1.png" width="400px">
-
-<img src="screens/both-2.png" width="400px">
+<img src="images/image009.jpg" width="400px">
 
 
 ## 真知保护
@@ -227,15 +142,7 @@ ___窝Q代码的其他用途___
 为这个项目，我组织了大约 12名程序员和美工，在开发上花费了6个月的时间。
 
 
-<img src="screens/realknowledge-0.png" width="400px">
-
-<img src="screens/realknowledge-1.png" width="400px">
-
-<img src="screens/realknowledge-2.png" width="400px">
-
-<img src="screens/realknowledge-3.png" width="400px">
-
-<img src="screens/realknowledge-4.png" width="400px">
+<img src="images/image011.jpg" width="400px">
 
 ## 
 
@@ -257,32 +164,17 @@ Github: [https://github.com/JeCat/games-icell] (https://github.com/JeCat/games-i
 
 Demo：[http://games.jecat.cn/icell] (http://games.jecat.cn/icell)
 
-## 钓钓堂
 
-《钓钓堂》是一款钓鱼题材的页游，在游戏中玩家组队进入渔场（房间），每个房间分为两队，每队4名玩家。玩家需要驾驶游艇，寻找鱼群，钓鱼或使用道具干扰其他玩家钓鱼。游戏结束后，按照团队计算成绩。
+<img src="images/image007.jpg" width="400px">
 
-* Server: Java 6 SE
+## 大连在线人才网（http://www.daliancity.com.cn）
+大连本地数一数二的招聘类网站。
 
-* Client: Flash Action Script 3
+## 中国国际海运网（http://www.shippingchina.com）
+中国国际海运网是中国最大的海运电子商务网站
 
-<img src="screens/ddt-0.png" width="400px">
-
-<img src="screens/ddt-1.png" width="400px">
-
-<img src="screens/ddt-2.png" width="400px">
-
-<img src="screens/ddt-3.png" width="400px">
-
-<img src="screens/ddt-4.png" width="400px">
-
-
-
-
-
-
-
-
-
+## 中日人才交流（http://www.workinjp.com）
+## 东企在线（http://www.dongqi.net.cn）
 
 
 
