@@ -126,7 +126,7 @@ Github: [https://github.com/aarongao/nodeim]
 参与了京东数字音乐商城项目，所有类型的播放器（MP3播放器，MV视频播放器，试听播放器，付费后的单曲播放器，专辑播放器，以及电台播放器）。
 
 
-<img src="images/image009.jpg" width="400px">
+<img src="images/image009.png" width="400px">
 
 
 ## 真知保护
@@ -138,7 +138,7 @@ Github: [https://github.com/aarongao/nodeim]
 在真知保护提供的桌面上，我们实现了：浏览器，聊天(及时通讯)，视频，音乐，文件架等常用的系统功能。真知保护和后来的QQ桌面很像。
 
 
-<img src="images/image011.jpg" width="400px">
+<img src="images/image011.png" width="400px">
 
 ## 
 
@@ -161,7 +161,7 @@ Github: [https://github.com/JeCat/games-icell] (https://github.com/JeCat/games-i
 Demo：[http://games.jecat.cn/icell] (http://games.jecat.cn/icell)
 
 
-<img src="images/image007.jpg" width="400px">
+<img src="images/image007.png" width="400px">
 
 ## 大连在线人才网（http://www.daliancity.com.cn）
 大连本地数一数二的招聘类网站。
