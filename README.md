@@ -19,18 +19,17 @@ Email: xiaobug@gmail.com
 
 ## Web开发
 
-LAMP 
-NODEJS+MONGODB 
-UBUNTU CentOS
-HTML5  JAVASCRIPT
-FLASH
-
+### LAMP 
+### NODEJS+MONGODB 
+### UBUNTU CentOS
+### HTML5  JAVASCRIPT
+### FLASH
 
 ---
 
 # 工作经验
 
-___大连科多网络科技有限公司___
+### 大连科多网络科技有限公司
 10年8月-13年6月	系统整合、新技术研发。
 
 ___中国国际海运网___
